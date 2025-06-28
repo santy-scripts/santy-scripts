@@ -5,7 +5,7 @@
 About Me
     I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions to people. I enjoy working on web projects and any kind of them and I'm constantly learning new technologies.
 
-##Skills 
+##Skills \n
     ![Skill Icons](https://skillicons.dev/icons?i=js,html,css,python)
 
 ##Learning
