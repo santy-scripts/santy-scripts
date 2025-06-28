@@ -20,7 +20,7 @@ I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions 
 ## Learning
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,angular,nodejs">
+        <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,npm">
     </a>
 </p>
     
