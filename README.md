@@ -2,7 +2,7 @@
 
 **santy-scripts/santy-scripts** i'm a  and junior developer.  
 
-<p align="left">![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)</p>
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 ## About Me
 I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions to people. I enjoy working on web projects and any kind of them and I'm constantly learning new technologies.
