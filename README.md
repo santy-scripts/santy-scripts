@@ -2,7 +2,7 @@
 
 **santy-scripts/santy-scripts** i'm a  and junior developer.  
 
-![pokemon Sticker by brunopixels](https://github.com/user-attachments/assets/2a3a9874-f057-4a30-86f5-2d63469a2aae =250x250)
+![pokemon Sticker by brunopixels](https://github.com/user-attachments/assets/2a3a9874-f057-4a30-86f5-2d63469a2aae)
 
 ## About Me
 I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions to people. I enjoy working on web projects and any kind of them and I'm constantly learning new technologies.
