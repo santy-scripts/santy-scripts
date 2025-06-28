@@ -27,8 +27,8 @@ I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions 
 ## Social
 
 <style>
-   parrafoLado{
-       margin-lef: 1rem;
+   .parrafoLado{
+       margin-left: 1rem;
        display: flex;      
    }
 </style>
