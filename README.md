@@ -32,11 +32,18 @@ I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions 
     </a>
 </p>
 <!--DISCORD-->
-<p align="center">
+<p align="center" class="parrafoLado">
         <a href="https://discordapp.com/users/809152671688818758">
         <img src="https://skillicons.dev/icons?i=discord">
     </a>
 </p>
+
+<style>
+   .parrafoLado{
+       display: flex;
+           
+   }
+</style>
 
 
 
