@@ -26,8 +26,8 @@ I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions 
     
 ## Social
 <p align="center">
-        <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linkedin" src="https://www.linkedin.com/in/santiago-andrés-rodríguez-moreno-88a120293">
+        <a href="https://www.linkedin.com/in/santiago-andrés-rodríguez-moreno-88a120293">
+        <img src="https://skillicons.dev/icons?i=linkedin">
     </a>
 </p>
 
