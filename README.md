@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**santy-scripts/santy-scripts** i'm a  and junior developer.  
+## Hi there i'm Santiago👋
 
 ![pokemon Sticker by brunopixels](https://github.com/user-attachments/assets/2a3a9874-f057-4a30-86f5-2d63469a2aae)
 
