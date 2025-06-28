@@ -39,9 +39,8 @@ I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions 
 </p>
 
 <style>
-   .parrafoLado{
-       display: flex;
-           
+   parrafoLado{
+       display: flex;      
    }
 </style>
 
