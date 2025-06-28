@@ -25,28 +25,20 @@ I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions 
 </p>
     
 ## Social
-
-<style>
-   .parrafoLado{
-       margin-left: 1rem;
-       display: flex;      
-   }
-</style>
-<div class="parrafoLado">
-    <!--LINKEDIN-->
-    <p align="center">
-            <a href="https://www.linkedin.com/in/santiago-andrés-rodríguez-moreno-88a120293">
-            <img src="https://skillicons.dev/icons?i=linkedin">
-        </a>
-    </p>
-    <!--DISCORD-->
-    <p align="center">
-            <a href="https://discordapp.com/users/809152671688818758">
-            <img src="https://skillicons.dev/icons?i=discord">
-        </a>
-    </p>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/santiago-andrés-rodríguez-moreno-88a120293">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discordapp.com/users/809152671688818758">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
