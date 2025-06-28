@@ -2,13 +2,13 @@
 
 **santy-scripts/santy-scripts** i'm a  and junior developer.
 
-##About Me
+## About Me
 I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions to people. I enjoy working on web projects and any kind of them and I'm constantly learning new technologies.
 
-##Skills 
+## Skills 
 ![Skill Icons](https://skillicons.dev/icons?i=js,html,css,python)
 
-##Learning
+## Learning
 ![Skill Icons](https://skillicons.dev/icons?i=ts,angular,node)
     
 ##Social
