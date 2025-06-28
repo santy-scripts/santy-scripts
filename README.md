@@ -3,10 +3,10 @@
 <!--
 **santy-scripts/santy-scripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-    ## About Me
+    About Me
     I'm a [Your Profession] with a passion for [Your Passion]. I enjoy working on [types of projects you enjoy] and I'm constantly learning new technologies.
 
-        ### Skills
+        Skills
     -   JavaScript
     -   React
     -   Node.js
