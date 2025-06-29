@@ -13,7 +13,7 @@ I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions 
 ## Skills 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,python,bash,mysql">
+        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,python,bash,mysql,wordpress">
     </a>
 </p>
 
