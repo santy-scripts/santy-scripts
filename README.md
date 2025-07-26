@@ -6,36 +6,33 @@
 <img src="https://github.com/user-attachments/assets/bf553d07-8d34-4528-ac09-3514370396a4" width="200" height="200"/> <!--Cyndaquil-->
 <img src="https://github.com/user-attachments/assets/5c64a49e-eb72-4a83-9688-ca956d3f8d71" width="200" height="200"/> <!--Bulbasaur-->
 
+# Hi there! 👋 I'm Santiago  
+I'm a tech enthusiast passionate about building software that solves real-world problems. I have a strong focus on backend development and I'm currently expanding my skills in frontend technologies and data science.
 
-## About Me
-I'm a Systems Eingenieer and Junior Developer with a passion for Make Solutions to people. I enjoy working on web projects and any kind of them and I'm constantly learning new technologies.
+---
 
-## Skills 
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,astro,python,bash,mysql,wordpress">
-    </a>
-</p>
+## 🚀 About Me
 
-## Learning
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,angular,django,npm">
-    </a>
-</p>
-    
-## Social
-<!--SOCIAL-->
-<div align="center">
-    <!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/santiago-andrés-rodríguez-moreno-88a120293">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-    <!--DISCORD-->
-  <a href="https://discordapp.com/users/809152671688818758">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
-</div>
+🎓 **Education**: Systems Engineer | Graduated from Universidad de Cundinamarca  
+🖥️ **Tech Stack**: Python (Django), JavaScript Vanilla, PostgreSQL, Linux  
+🧪 **Currently Exploring**: Machine Learning, API Design, and Angular
+🛠️ **Projects**:  
+- 📷 Real-time IP Camera System with Raspberry Pi  
+- 📊 Data Analysis Notebooks for regression/classification  
+- 🛰️ Autonomous drone mission planner using DJI SDK  
+
+🎯 **Learning Goals**:  
+- Master clean code and scalable software architecture  
+- Deepen understanding of data pipelines and model deployment  
+- Improve frontend skills with React and TailwindCSS  
+
+🌍 **Looking for**:  
+- Remote internships, freelance gigs, or collaboration on open-source projects  
+- Opportunities to work with teams focused on impactful tech solutions  
+
+---
+
+
 
 
 
