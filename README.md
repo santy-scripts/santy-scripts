@@ -1,4 +1,3 @@
-## Hi there i'm Santiago👋
 
 <!--POKEMONS-->
 <img src="https://github.com/user-attachments/assets/2a3a9874-f057-4a30-86f5-2d63469a2aae" width="200" height="200"/> <!--Mudkip-->
