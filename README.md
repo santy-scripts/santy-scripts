@@ -13,7 +13,6 @@ I'm a tech enthusiast passionate about building software that solves real-world 
 
 ## 🚀 About Me
 
-🎓 **Education**: Systems Engineer | Graduated from Universidad de Cundinamarca  
 🖥️ **Tech Stack**: Python (Django), JavaScript Vanilla, PostgreSQL, Linux  
 🧪 **Currently Exploring**: Machine Learning, API Design, and Angular
 🛠️ **Projects**:  
