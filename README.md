@@ -14,6 +14,7 @@ I'm a tech enthusiast passionate about building software that solves real-world 
 
 🖥️ **Tech Stack**: Python (Django), JavaScript Vanilla, PostgreSQL, Linux  
 🧪 **Currently Exploring**: Machine Learning, API Design, and Angular
+
 🛠️ **Projects**:  
 - 📷 Real-time IP Camera System with Raspberry Pi  
 - 📊 Data Analysis Notebooks for regression/classification  
@@ -22,7 +23,7 @@ I'm a tech enthusiast passionate about building software that solves real-world 
 🎯 **Learning Goals**:  
 - Master clean code and scalable software architecture  
 - Deepen understanding of data pipelines and model deployment  
-- Improve frontend skills with React and TailwindCSS  
+- Improve frontend skills with Angular 
 
 🌍 **Looking for**:  
 - Remote internships, freelance gigs, or collaboration on open-source projects  
