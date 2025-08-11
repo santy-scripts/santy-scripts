@@ -33,7 +33,7 @@ I'm a tech enthusiast passionate about building software that solves real-world 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=santy-scripts&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=santy-scripts&show_icons=trues&theme=dark&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
