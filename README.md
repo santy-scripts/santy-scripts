@@ -31,7 +31,7 @@ I'm a tech enthusiast passionate about building software that solves real-world 
 
 ---
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
